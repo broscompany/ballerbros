@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2Cc7992B3522c2595A34e7DC4Ad351c025C6260c",
+  "SCAN_LINK": "https://polygonscan.com/token/0x2Cc7992B3522c2595A34e7DC4Ad351c025C6260c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Baller Bros",
+  "SYMBOL": "BALLERBROS",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/baller-bros",
+  "SHOW_BACKGROUND": true
+}
